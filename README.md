@@ -11,7 +11,7 @@ System Design Problems:
 3. [Design Twitter Search](designing_twitter_search.ipynb)
 4. [Design Instagram Feed](designing_instagram_feed.ipynb)
 5. [Design Youtube or Netflix](designing_youtube_or_netflix.md)
-6. [Design Uber or Lyft](designing_uber_backend.md)
+6. [Design Uber or Lyft](../Software%20Design%20Case%20Study/designing_uber_backend.md)
 7. [Design a Typeahead Suggestion like Google Search](designing_typeahead_suggestion.md)
 8. [Design an API Rate Limiter](designing_api_rate_limiter.ipynb)
 9. [Design an E-ticketing service like Ticketmaster](designing_ticketmaster.md)
